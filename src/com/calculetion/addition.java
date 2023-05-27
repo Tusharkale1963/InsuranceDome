@@ -11,6 +11,11 @@ public class addition {
 		b=40;
 		int add1=a+b;
 		System.out.println("addition of two number = "+add1);
+		// added by eclips gerish
+		a=100;
+		b=300;
+		int add3=a+b;
+		System.out.println("addition of two number = "+add3);
 
 	}
 
