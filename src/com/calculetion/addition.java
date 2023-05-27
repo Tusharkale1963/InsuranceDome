@@ -11,6 +11,11 @@ public class addition {
 		b=40;
 		int add1=a+b;
 		System.out.println("addition of two number = "+add1);
+		// added by tushar kale 25-05-23
+		a=45;
+		b=30;
+		int add2=a+b;
+		System.out.println("addition of two number = "+add2);
 
 	}
 
